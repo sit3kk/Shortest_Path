@@ -12,17 +12,6 @@ A mini-game that implements A*, Dijkstra, BFS and Bellman Ford algorithms.
 
 * Bellman-Ford algorithm is a graph search algorithm that computes the shortest paths from a single source vertex to all other vertices in a weighted graph. It can handle graphs with negative edge weights and can detect negative cycles.
 
-# Requirements
-Python 3.10 and later.
-
-
-# Installation
-* Download file main.py
-* Open cmd
-* Go to the folder where main.py is located
-* Use command "python main.py"
-
-
 # Usage
 * The first click of the left mouse button marks the starting point.
 * The second click of the left mouse button marks the ending point.
@@ -37,6 +26,17 @@ Python 3.10 and later.
 
 
 ![2](https://user-images.githubusercontent.com/69002597/226310848-d9dbfa5b-4e21-474e-9d05-1d76e72f33ac.PNG)
+
+
+# Requirements
+Python 3.10 and later.
+
+
+# Installation
+* Download file main.py
+* Open cmd
+* Go to the folder where main.py is located
+* Use command "python main.py"
 
 
 # License
