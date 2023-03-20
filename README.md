@@ -36,7 +36,6 @@ Python 3.10 and later.
 
 
 
-# Screenshot
 ![2](https://user-images.githubusercontent.com/69002597/226310848-d9dbfa5b-4e21-474e-9d05-1d76e72f33ac.PNG)
 
 
