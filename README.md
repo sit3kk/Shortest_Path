@@ -1,2 +1,9 @@
-# Shortest_Path
-Mini game in which we build a wall and the task of the selected algorithm is to find the shortest path.
+
+#Description
+A mini-game that implements A*, Dijkstra, BFS and Bellman Ford algorithms.
+
+#Requirements
+Python 3.10 and later.
+
+#Usage
+*HWDP
